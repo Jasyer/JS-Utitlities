@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "p-queue": "^6.4.0",
     "ping": "^0.2.3",
     "whois": "^2.12.1"
