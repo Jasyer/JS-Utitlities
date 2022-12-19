@@ -3,7 +3,7 @@
     "minimist": "^1.2.5",
     "p-queue": "^6.4.0",
     "ping": "^0.2.3",
-    "whois": "^2.12.1"
+    "whois": "^2.13.6"
   },
   "scripts": {
     "start": "node find-available-url.js"
